@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.ayusha.sample.service.MyServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-04-01T11:37:51" hostname="Ayushs-MacBook-Pro.local" time="0.008">
+  <properties/>
+  <testcase name="test" classname="org.ayusha.sample.service.MyServiceTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Apr 01, 2018 5:07:49 PM org.springframework.test.context.support.AbstractTestContextBootstrapper getDefaultTestExecutionListenerClassNames
+INFO: Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+Apr 01, 2018 5:07:49 PM org.springframework.test.context.support.AbstractTestContextBootstrapper getTestExecutionListeners
+INFO: Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@3e0c63d, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@24329cc1, org.springframework.test.context.support.DirtiesContextTestExecutionListener@4db57396]
+Apr 01, 2018 5:07:49 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from class path resource [spring-context.xml]
+Apr 01, 2018 5:07:50 PM org.springframework.context.support.AbstractApplicationContext prepareRefresh
+INFO: Refreshing org.springframework.context.support.GenericApplicationContext@a3d9c82: startup date [Sun Apr 01 17:07:50 IST 2018]; root of context hierarchy
+Apr 01, 2018 5:07:51 PM org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor <init>
+INFO: JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+]]></system-err>
+</testsuite>
